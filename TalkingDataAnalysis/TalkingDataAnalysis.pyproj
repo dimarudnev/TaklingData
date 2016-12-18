@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>a51bd493-5fda-49bd-aebc-fe45cff41780</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Statistics.py</StartupFile>
+    <StartupFile>TalkingDataAnalysis.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>

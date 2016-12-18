@@ -3,7 +3,7 @@ import random
 
 # need scipy as usual
 import scipy
-DISTANCE_ITERATIONS=1
+DISTANCE_ITERATIONS=10
 
 
 
